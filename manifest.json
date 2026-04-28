@@ -1,0 +1,18 @@
+{
+  "short_name": "Pesparawi JMO",
+  "name": "Pesparawi JMO",
+  "description": "Aplikasi pendukung Pesparawi JMO",
+  "icons": [
+    {
+      "src": "/pesparawi-jmo/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/pesparawi-jmo/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "orientation": "portrait",
+  "scope": "/pesparawi-jmo/"
+}

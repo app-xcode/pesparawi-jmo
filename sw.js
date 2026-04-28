@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/pesparawi-jmo/sw.js', { scope: '/pesparawi-jmo/' })})}
